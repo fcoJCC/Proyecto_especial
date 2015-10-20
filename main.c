@@ -51,7 +51,7 @@ int main()
             }
         }
     }
-    printf("gracias,por usar el programa Francisco Campillay");
+    printf("gracias,por usar el programa se despide Francisco Campillay");
     return 0;
     }
 
